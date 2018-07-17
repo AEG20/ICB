@@ -1,0 +1,67 @@
+/***********BASE ELEMENT STYLES**************/
+
+*  {
+    box-sizing: border-box;
+  }
+  
+  
+  h1 {
+  margin-top: 0;
+  }
+  
+  .primary-content {
+    margin: auto;
+  }
+  
+  
+  
+  
+  /***********HEADER**************/
+  
+  .main-header {
+    background-color: black;
+    color: forestgreen;
+    text-align: center;
+    margin-top: 5px;
+    
+    
+  }
+  
+  /***********Navigation**************/
+  
+  .main-nav {
+    margin-bottom: 5px;
+  
+  }
+  
+  .main-nav li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 100px 0;
+    
+  }
+  
+  .main-nav a {
+    font-size: .95em;
+    color: hotpink;
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style: none;
+  
+  }
+  
+  .main-nav a:hover {
+    color: #fff;
+  }
+  
+  /***********Images**************/
+  
+  .vegas {
+    width: 40%;
+    max-height: 150px;
+    position: center;
+  }
+  
+  
+  
+  
